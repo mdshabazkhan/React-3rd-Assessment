@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-3rd-Assessment/static/css/main.6ff626ea.css",
+    "main.js": "/React-3rd-Assessment/static/js/main.d6b2bf23.js",
+    "index.html": "/React-3rd-Assessment/index.html",
+    "main.6ff626ea.css.map": "/React-3rd-Assessment/static/css/main.6ff626ea.css.map",
+    "main.d6b2bf23.js.map": "/React-3rd-Assessment/static/js/main.d6b2bf23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff626ea.css",
+    "static/js/main.d6b2bf23.js"
+  ]
+}
